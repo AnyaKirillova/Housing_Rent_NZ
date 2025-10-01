@@ -3,6 +3,16 @@
 ## 📊 Project Overview
 Comprehensive data analysis of New Zealand rental market from 2022-2024, examining price drivers, market stability, and predictive forecasting.
 
+##📁 Repository structure
+- `Housing_Rent_NZ.csv` — original synthetic dataset  
+- `Housing_Rent_NZ.py` — Full Python Code
+- `Plot.png` - Wisker Plot
+- `Line Graphs.png` — Line Graphs with trends
+- `Correlation.png` - Correlation 
+- `Regression.png` - Multiple Linear Regression
+- `ARIMA.png` - ARIMA Forecasting Visualisation
+- `Report Housing Rent NZ.pdf` — short business report (insights + recommendations)
+
 ## 🎯 Key Findings
 
 ### 📈 Market Stability & Predictability
