@@ -6,7 +6,7 @@ Comprehensive data analysis of New Zealand rental market from 2022-2024, examini
 ##📁 Repository structure
 - `Housing_Rent_NZ.csv` - original synthetic dataset  
 - `Housing_Rent_NZ.py` - Full Python Code
-- `Plot.png` - Wisker Plot
+- `Plot.png` - Whisker Plot
 - `Line Graphs.png` - Line Graphs with trends
 - `Correlation.png` - Correlation 
 - `Regression.png` - Multiple Linear Regression
